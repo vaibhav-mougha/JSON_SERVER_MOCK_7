@@ -2,7 +2,5 @@
   "users": [
     {"id":1,"username":"Admin","email" : "admin@stockbroker.com","password" : "admin123","isAdmin":true}
   ],
-  "companies":[
-	
-  ]
+  "companies": []
 }
